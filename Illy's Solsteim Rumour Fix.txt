@@ -1,0 +1,80 @@
+Readme:
+
+***** "Illy's Solsteim Rumour Fix" by Illuminiel *****
+
+
+
+1. Description:
+
+Have you ever felt your game immersion ruined when you start a new game with the Bloodmoon expansion selected and everyone on Vvardenfell seems to know about Solsteim? Did you ever wonder why every Imperial you met had their son sent to Solsteim? 
+
+I used to get so annoyed by this I'd deselect Bloodmoon from my load list just so I wouldn't see the rumour remark. 
+
+Then finally I thought I'm not putting up with this anymore and hence this tiny mod which filters the reference to Solsteim in the latest rumours topic. 
+
+Now the only person who has had their son sent to Solsteim is Jonus Maximus the Knight wearing the full Imperial Templar set of armour at Ebonheart. Other than Jonus only NPC's who are the Agent class and S'virr the shipmaster to Solsteim will introduce the topic Solsteim. I figured agents would know this type of rumour.
+
+Once you have spoken to an agent or Jonus or S'virr about Solsteim then all the folks in Khuul (where you catch the boat to Solsteim) will now be able to tell you about going to the docks to find S'virr as per ususal - I haven't touched their filters at all.
+
+______________________________________________________
+
+2. Installation:
+
+First create a backup of your save files.
+
+Place the esp called "Illy's Solsteim Rumour Fix" in your Morrowind Data Files folder 
+
+When you start your next game remember to select the Mod "Illy's Solsteim Rumour Fix" from your game launcher window. 
+
+______________________________________________________
+
+3. Playing the mod:
+
+This mod is dependent on the Bloodmoon expansion... since Bloodmoon introduces Solsteim. 
+
+
+______________________________________________________
+
+4. Issues:
+
+None known - I've tested this in talking to NPC agents and Jonus and it worked fine.
+
+
+
+Unintentional issues
+
+Modding can create unintentional GMST errors - I built this mod using a clean install of Morrowind GOTY and used TESAME and Testool before upoading to check and clean errors of which I found none. While all effort has been made to quality check this mod as with all mods it is use at your own risk. 
+
+A safe modding practice is to create a backup of your save files first, please do this before installing this mod. If you find an error or technical issue please post the problem or PM me on the official forums at http://www.bethsoft.com/bgsforums Morrowind Mods and if I am still active I'll attempt to address it.
+
+______________________________________________________
+
+
+5. Credits:
+
+For the game: 	Thanks Bethesda you've kept me entertained for years - your games are enormous value for money
+
+For the CS:  	Wow thanks again Bethesda for enabling us to mod your world 
+
+
+
+
+______________________________________________________
+
+6. Usage:
+
+Use at own risk
+
+
+This mod is allowed to be converted to non-english versions of Morrowind - however please included a translated version of this readme.
+
+
+If you don't like this mod delete it, if you think you can do better then please do so as everyone else will enjoy your contribution to the moding world :)
+
+I frequent the Official forums http://www.bethsoft.com/bgsforums and http://princessstomper.proboards74.com/index.cgi as Illuminiel
+
+May you enjoy gaming and life 
+
+Illy
+
+May 2010
